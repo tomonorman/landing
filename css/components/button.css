@@ -1,0 +1,13 @@
+.button-blue {
+  padding: 8px 24px;
+  background-color: #506891;
+  color: white;
+  border-radius: 24px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.button-blue:hover {
+  background-color: #3d5170;
+  transition: 1s;
+}
